@@ -1,0 +1,9 @@
+E:\CSharpLearning\第一章 C#开发环境的使用\005\SetSoftInfo\bin\Debug\SetSoftInfo.exe.config
+E:\CSharpLearning\第一章 C#开发环境的使用\005\SetSoftInfo\bin\Debug\SetSoftInfo.exe
+E:\CSharpLearning\第一章 C#开发环境的使用\005\SetSoftInfo\bin\Debug\SetSoftInfo.pdb
+E:\CSharpLearning\第一章 C#开发环境的使用\005\SetSoftInfo\obj\Debug\SetSoftInfo.csprojAssemblyReference.cache
+E:\CSharpLearning\第一章 C#开发环境的使用\005\SetSoftInfo\obj\Debug\SetSoftInfo.Properties.Resources.resources
+E:\CSharpLearning\第一章 C#开发环境的使用\005\SetSoftInfo\obj\Debug\SetSoftInfo.csproj.GenerateResource.cache
+E:\CSharpLearning\第一章 C#开发环境的使用\005\SetSoftInfo\obj\Debug\SetSoftInfo.csproj.CoreCompileInputs.cache
+E:\CSharpLearning\第一章 C#开发环境的使用\005\SetSoftInfo\obj\Debug\SetSoftInfo.exe
+E:\CSharpLearning\第一章 C#开发环境的使用\005\SetSoftInfo\obj\Debug\SetSoftInfo.pdb
