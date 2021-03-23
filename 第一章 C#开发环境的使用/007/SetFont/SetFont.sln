@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetFont", "SetFont\SetFont.csproj", "{6B749997-2406-4DB0-A887-7B89F6FBA2DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B749997-2406-4DB0-A887-7B89F6FBA2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B749997-2406-4DB0-A887-7B89F6FBA2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B749997-2406-4DB0-A887-7B89F6FBA2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B749997-2406-4DB0-A887-7B89F6FBA2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC4A0368-58D8-46AD-8983-1011CEADF3CB}
+	EndGlobalSection
+EndGlobal
