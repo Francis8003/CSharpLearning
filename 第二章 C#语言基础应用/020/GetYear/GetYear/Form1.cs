@@ -16,5 +16,23 @@ namespace GetYear
         {
             InitializeComponent();
         }
+
+        private void btn_Get_Click(object sender, EventArgs e)
+        {
+            ushort P_usint_temp;
+            if (ushort.TryParse(txt_year.Text, out P_usint_temp))
+            {
+                MessageBox.Show(
+                    (P_usint_temp % 4 == 0 && P_usint_temp % 100 != 0)
+                    || P_usint_temp % 4 == 0 ?
+                    "输入的是闰年！" : "输入的不是闰年！", "Tip"
+                    );
+
+            }
+            else
+            {
+                MessageBox.Show("请输入正确的数值！", "Tip");
+            }
+        }
     }
 }
