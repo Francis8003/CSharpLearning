@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetColor", "..\SetColor\Set
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputMessage", "..\InputMessage\InputMessage.csproj", "{DF0896C5-DCC2-4AF8-953C-429140D3A177}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic", "..\Arithmetic\Arithmetic.csproj", "{05B567D6-2AF6-4665-8E02-09E1D02D9851}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{DF0896C5-DCC2-4AF8-953C-429140D3A177}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF0896C5-DCC2-4AF8-953C-429140D3A177}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF0896C5-DCC2-4AF8-953C-429140D3A177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B567D6-2AF6-4665-8E02-09E1D02D9851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B567D6-2AF6-4665-8E02-09E1D02D9851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B567D6-2AF6-4665-8E02-09E1D02D9851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B567D6-2AF6-4665-8E02-09E1D02D9851}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
