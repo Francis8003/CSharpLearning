@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WhichWay
+namespace Login
 {
     public partial class Form1 : Form
     {
@@ -16,5 +16,18 @@ namespace WhichWay
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Add(new test());
+        }
     }
+    public class test
+    {
+        public override string ToString()
+        {
+            return "Francis NB";
+        }
+    }
+
 }
