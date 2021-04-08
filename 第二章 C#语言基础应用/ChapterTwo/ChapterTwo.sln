@@ -39,9 +39,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSeason", "..\GetSeason\G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetColor", "..\SetColor\SetColor.csproj", "{2FF2D14F-4D14-4AAF-8C89-1676E2AD1628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputMessage", "..\InputMessage\InputMessage.csproj", "{DF0896C5-DCC2-4AF8-953C-429140D3A177}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputMessage", "..\InputMessage\InputMessage.csproj", "{DF0896C5-DCC2-4AF8-953C-429140D3A177}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic", "..\Arithmetic\Arithmetic.csproj", "{05B567D6-2AF6-4665-8E02-09E1D02D9851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumGame", "..\NumGame\NumGame.csproj", "{A4D6C263-92F8-4737-BFB8-768142BC42E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{05B567D6-2AF6-4665-8E02-09E1D02D9851}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05B567D6-2AF6-4665-8E02-09E1D02D9851}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05B567D6-2AF6-4665-8E02-09E1D02D9851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4D6C263-92F8-4737-BFB8-768142BC42E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D6C263-92F8-4737-BFB8-768142BC42E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D6C263-92F8-4737-BFB8-768142BC42E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D6C263-92F8-4737-BFB8-768142BC42E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
